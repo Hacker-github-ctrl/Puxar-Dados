@@ -1,9 +1,11 @@
 # Puxar-Dados
 Hacking
+olá miguel, sou Eu kkk, tá aí a ferramenta, puxe os dados, sou o Wesley, tente aí. essa ferramenta
 
-#olá miguel, sou Eu kkk, tá aí a ferramenta, puxe os dados.
 
 #. Baixar essa ferramenta para voce meu amigo miguel:
+TERMUX & LINUX.
+
 1. primeiro.
 ```bash
 apt install python2
