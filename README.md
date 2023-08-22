@@ -12,7 +12,7 @@ cd Puxar-Dados
 ```
 3. Final.
 ```bash
-Puxar-Dados.py
+python main.py
 ```
    
   
