@@ -2,15 +2,19 @@
 Hacking
 
 #. Baixar essa ferramenta para voce meu amigo miguel:
-1. isso.
+1. primeiro.
+```bash
+apt install python2
+```
+2. isso.
 ```bash
 git clone https://github.com/Hacker-github-ctrl/Puxar-Dados.git
 ```
-2. pasta.
+3. pasta.
 ```bash
 cd Puxar-Dados
 ```
-3. Final.
+4. Final.
 ```bash
 python main.py
 ```
