@@ -18,7 +18,7 @@ cd Puxar-Dados
 ```
 4. Final.
 ```bash
-python main.py
+python2 main.py
 ```
    
   
