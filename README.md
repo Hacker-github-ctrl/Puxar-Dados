@@ -1,7 +1,7 @@
 # Puxar-Dados
 Hacking
 
-olá miguel, sou Eu kkk, tá aí a ferramenta, puxe os dados.
+#olá miguel, sou Eu kkk, tá aí a ferramenta, puxe os dados.
 
 #. Baixar essa ferramenta para voce meu amigo miguel:
 1. primeiro.
